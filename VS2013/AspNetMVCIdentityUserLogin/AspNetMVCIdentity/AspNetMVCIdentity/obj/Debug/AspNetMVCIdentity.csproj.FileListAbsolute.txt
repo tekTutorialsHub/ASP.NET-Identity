@@ -1,0 +1,225 @@
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll.config
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.csprojResolveAssemblyReference.cache
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.csprojResolveAssemblyReference.cache
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll.config
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll.config
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.csprojResolveAssemblyReference.cache
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part1 - Basics and OWIN\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll.config
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.csprojResolveAssemblyReference.cache
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part2 - OWIN Setup\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll.config
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Owin.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.xml
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.dll
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.pdb
+D:\BlogIdea\Current\ASP.NET MVC\ASP.NET IDENTITY\Part3 - Registration And Login\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.csprojResolveAssemblyReference.cache
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll.config
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\AspNetMVCIdentity.pdb
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Owin.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\EntityFramework.SqlServer.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\Newtonsoft.Json.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Razor.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Deployment.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Webpages.Razor.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Helpers.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\bin\System.Web.Mvc.xml
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.csprojResolveAssemblyReference.cache
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2013\AspNetMVCIdentityUserLogin\AspNetMVCIdentity\AspNetMVCIdentity\obj\Debug\AspNetMVCIdentity.pdb

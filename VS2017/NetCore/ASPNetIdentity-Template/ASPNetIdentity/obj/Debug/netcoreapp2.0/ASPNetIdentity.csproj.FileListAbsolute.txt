@@ -1,0 +1,12 @@
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\bin\Debug\netcoreapp2.0\ASPNetIdentity.deps.json
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\bin\Debug\netcoreapp2.0\ASPNetIdentity.runtimeconfig.json
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\bin\Debug\netcoreapp2.0\ASPNetIdentity.runtimeconfig.dev.json
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\bin\Debug\netcoreapp2.0\ASPNetIdentity.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\bin\Debug\netcoreapp2.0\ASPNetIdentity.pdb
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\obj\Debug\netcoreapp2.0\ASPNetIdentity.csprojResolveAssemblyReference.cache
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\obj\Debug\netcoreapp2.0\ASPNetIdentity.csproj.CoreCompileInputs.cache
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\obj\Debug\netcoreapp2.0\ASPNetIdentity.AssemblyInfoInputs.cache
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\obj\Debug\netcoreapp2.0\ASPNetIdentity.AssemblyInfo.cs
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\obj\Debug\netcoreapp2.0\ASPNetIdentity.dll
+E:\TekTutorialsHub\ASP.NET Identity\VS2017\NetCore\ASPNetIdentity\ASPNetIdentity\obj\Debug\netcoreapp2.0\ASPNetIdentity.pdb
